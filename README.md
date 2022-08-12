@@ -6,4 +6,4 @@
  </br>
 </br>
 
-![Snake animation](https://github.com/davidchewy/davidchewy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Davidchewy/Davidchewy/blob/output/github-contribution-grid-snake.svg)
