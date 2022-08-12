@@ -18,6 +18,6 @@
  </br>
 </br>
 
-<img align="right" height="180em" alt="Erica-yoda" src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611bfa1b2ef538ff03ee8b07ee1dcd515113ebe0820&rid=giphy.gif&ct=g">
+<img align="center" height="180em" alt="Erica-yoda" src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611bfa1b2ef538ff03ee8b07ee1dcd515113ebe0820&rid=giphy.gif&ct=g">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
