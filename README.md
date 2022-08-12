@@ -4,9 +4,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidChewy&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-
-
-
+<div style="display: inline_block"><br>
+  
+   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  </div>
 
 ## Contact 
 <div> 
